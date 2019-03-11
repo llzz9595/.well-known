@@ -1,8 +1,8 @@
 #federation服务器
-FEDERATION_SERVER = "https://192.168.1.143:8002/federation"
+FEDERATION_SERVER = "https://www.lxq.com:8002/federation"
 
 #compliance服务器
-AUTH_SERVER = "https://192.168.1.143:8003"
+AUTH_SERVER = "https://www.lxq.com:8003"
 
 #签名账户
 SIGNING_KEY = "GD4BPFPKOBVRNR7KE4RMFHJBQD3JNU5REZU2RRZ7ESBA6BTV643EXESA"
